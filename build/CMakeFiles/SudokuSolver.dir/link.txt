@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/SudokuSolver.dir/src/main.cpp.o CMakeFiles/SudokuSolver.dir/src/SudokuSolver.cpp.o -o SudokuSolver 

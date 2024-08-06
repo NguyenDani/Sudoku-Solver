@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test_SudokuSolver.dir/tests/test_SudokuSolver.cpp.o CMakeFiles/test_SudokuSolver.dir/src/SudokuSolver.cpp.o -o test_SudokuSolver  lib/libgtest_main.a lib/libgtest.a 
